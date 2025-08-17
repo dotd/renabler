@@ -10,11 +10,23 @@
 [π0.5: a Vision-Language-Action Model with
 Open-World Generalization](https://arxiv.org/pdf/2504.16054)
 
+### 2024
+[Droid: A large-scale in-the-wild robot manipulation dataset](https://arxiv.org/abs/2403.12945)
+
+
 ### 2023
+
+[Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/html/2310.08864v4)
+
+[Roboagent: Generalization and efficiency in robot manip-
+ulation via semantic augmentations and action chunking.](https://arxiv.org/abs/2309.01918)
+
 
 [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/pdf/2308.12952)
 
-[Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/html/2310.08864v4)
+[RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot](https://arxiv.org/abs/2307.00595)
+
+
 
 ### 2021
 [Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets
