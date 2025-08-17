@@ -5,3 +5,4 @@
 ](https://arxiv.org/abs/2506.01844)
 
 
+![SmolVLA](images/smolvla.png)
