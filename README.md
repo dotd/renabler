@@ -10,11 +10,16 @@
 [π0.5: a Vision-Language-Action Model with
 Open-World Generalization](https://arxiv.org/pdf/2504.16054)
 
+[AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems](https://arxiv.org/abs/2503.06669)
+
+
 ### 2024
 [Droid: A large-scale in-the-wild robot manipulation dataset](https://arxiv.org/abs/2403.12945)
 
 
 ### 2023
+
+[On Bringing Robots Home](https://arxiv.org/abs/2311.16098)
 
 [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/html/2310.08864v4)
 
